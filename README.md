@@ -1,1 +1,5 @@
-# speeed
+# Google Play Privacy Policy
+
+I do not collect data. This applies to the following apps:
+
+* https://play.google.com/store/apps/details?id=com.mkopa.speeed
