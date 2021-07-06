@@ -26,6 +26,8 @@ Requires Android 6.0 or later.
 
 ## Demo
 
+Please turn on the subtitles
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6EDEFLhKJrM/0.jpg)](https://www.youtube.com/watch?v=6EDEFLhKJrM)
 
 ## Screenshots
