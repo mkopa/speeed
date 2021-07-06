@@ -18,7 +18,7 @@ Please support the project with a donation. Thank You  ❤
 
 [![paypal](https://www.paypalobjects.com/en_US/PL/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q2R6MWNE6EY52)
 
-## What is
+## Description 
 
 Speeed is the equivalent of the popular Windows app - Bafang Configuration Tool
 
