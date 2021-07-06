@@ -18,6 +18,16 @@ Please support the project with a donation. Thank You  ❤
 
 [![paypal](https://www.paypalobjects.com/en_US/PL/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q2R6MWNE6EY52)
 
+## What is
+
+Speeed is the equivalent of the popular Windows app - Bafang Configuration Tool
+
+![](https://raw.githubusercontent.com/mkopa/speeed/main/assets/bafang-configuration-tool-for-windows.png)
+
+Because it is a smartphone app with a clear interface and built-in e-bike display makes this app very comfortable when tuning our e-bike.
+
+Currently the application is only available for Android. However, I am just finishing up testing a small Bluetooth LE adapter that will be ridiculously cheap and have amazing features. Then there will be an app for iOS.
+
 ## Connection
 
 <div align="center">
