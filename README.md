@@ -24,6 +24,10 @@ Requires Android 6.0 or later.
 - Connect the other end of the cable to where the bike display is connected.
 - Click the "Connect" button in the app. That's it!
 
+## Demo
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6EDEFLhKJrM/0.jpg)](https://www.youtube.com/watch?v=6EDEFLhKJrM)
+
 ## Screenshots
 
 <img src="assets/main_screen.jpg" width="500">
