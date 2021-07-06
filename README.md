@@ -22,7 +22,9 @@ Please support the project with a donation. Thank You  ❤
 
 Speeed is the equivalent of the popular Windows app - Bafang Configuration Tool
 
-<img src="https://raw.githubusercontent.com/mkopa/speeed/main/assets/bafang-configuration-tool-for-windows.png" alt="Speeed Bafang Configuration Tool" width="100">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/mkopa/speeed/main/assets/bafang-configuration-tool-for-windows.png" alt="Speeed Bafang Configuration Tool" width="500">
+</div>
 
 Because it is a smartphone app with a clear interface and built-in e-bike display makes this app very comfortable when tuning our e-bike.
 
