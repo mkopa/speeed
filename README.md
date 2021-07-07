@@ -30,15 +30,6 @@ Because it is a smartphone app with a clear interface and built-in e-bike displa
 
 Currently the application is only available for Android. However, I am just finishing up testing a small Bluetooth LE adapter that will be ridiculously cheap and have amazing features. Then there will be an app for iOS.
 
-#### Supported motors:
-
-  - BBS01 ✅
-  - BBS01B ✅
-  - BBS02 ✅
-  - BBS02B ✅
-  - BBSHD ✅
-  - All hub motors from Bafang ✅
-
 ## Connection
 
 <div align="center">
@@ -50,6 +41,15 @@ Currently the application is only available for Android. However, I am just fini
 - Connect the Bafang programming cable to the OTG adapter [It is available on AliExpress](https://pl.aliexpress.com/wholesale?SearchText=bafang+programming+cable)
 - Connect the other end of the cable to where the bike display is connected.
 - Click the "Connect" button in the app. That's it!
+
+#### Supported motors:
+
+  - BBS01 ✅
+  - BBS01B ✅
+  - BBS02 ✅
+  - BBS02B ✅
+  - BBSHD ✅
+  - All hub motors from Bafang ✅
 
 ## Demo
 
