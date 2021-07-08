@@ -59,7 +59,13 @@ Please turn on the subtitles
 
 ## Screenshots
 
-<img src="assets/main_screen.jpg" width="500">
+<img src="assets/1b.jpg" width="500">
 <img src="assets/display.jpg" width="500">
-<img src="assets/general_screen.jpg" width="500">
-<img src="assets/levels_screen.jpg" width="500">
+<img src="assets/3.jpg" width="500">
+<img src="assets/4.jpg" width="500">
+<img src="assets/5.jpg" width="500">
+<img src="assets/6.jpg" width="500">
+<img src="assets/7.jpg" width="500">
+<img src="assets/8.jpg" width="500">
+<img src="assets/9.jpg" width="500">
+
