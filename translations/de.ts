@@ -11,10 +11,10 @@ export const de: Translation = {
       header: "Warnung!",
       message: {
         theFileText: "Die Datei",
-        areYouSureToOverrideText: "existieren! Sind Sie sicher, dass Sie diese Datei außer Kraft setzen wollen?",
+        areYouSureToOverrideText: "existiert bereits! Sind Sie sicher, dass Sie diese Datei überschreiben wollen?",
       },
       buttons: {
-        yes: "Überschreiben Sie",
+        yes: "Ja",
         no: "Nein",
       },
     },
@@ -33,8 +33,8 @@ export const de: Translation = {
       first: "Lesen Sie",
       second: "Parameter erfolgreich!",
     },
-    readPedalAssistSuccess: "Pedal Assist Parameter erfolgreich lesen!",
-    readThrottleHandleSuccess: "Parameter des Gasgriffs erfolgreich lesen",
+    readPedalAssistSuccess: "Pedal Assist Parameter erfolgreich gelesen!",
+    readThrottleHandleSuccess: "Parameter des Gasgriffs erfolgreich gelesen",
     readAllSuccess: "Alle Parameter erfolgreich gelesen!",
     somethingWentWrong: "Etwas ist schief gelaufen! Log:",
     writeSuccess: {
@@ -45,7 +45,7 @@ export const de: Translation = {
       first: "Schreiben Sie",
       second: "Parameter erfolgreich!",
     },
-    writeAllSuccess: "Alle Parameter erfolgreich schreiben!",
+    writeAllSuccess: "Alle Parameter erfolgreich geschreiben!",
   },
   buttons: {
     cancel: "Abbrechen",
@@ -111,7 +111,7 @@ export const de: Translation = {
     label_language: "Sprache",
     object_Profile: {
       header: "Profil",
-      open: "Öffnen Sie",
+      open: "Öffnen",
       save_as: "Speichern unter",
       save: "Speichern",
       default_configuration_string: "Standardkonfiguration (keine Datei angegeben)",
@@ -121,8 +121,8 @@ export const de: Translation = {
     },
     object_Motor: {
       header: "Motor",
-      read_all: "Lesen Sie",
-      write_all: "Schreiben Sie",
+      read_all: "Lesen",
+      write_all: "Schreiben",
       connect: "Verbinden",
       disconnect: "Trennen Sie die Verbindung",
       status: {
@@ -147,10 +147,10 @@ export const de: Translation = {
       general: "Allgemein",
       levels: "Levels",
       pedal: "Pedal",
-      throttle: "Drosselklappe",
+      throttle: "Daumengas",
     },
     header: {
-      readButtonText: "Lesen Sie",
+      readButtonText: "Lesen",
       writeButtonText: "Speichern",
     },
     tabs: {
