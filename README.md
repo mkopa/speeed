@@ -9,8 +9,6 @@
 ## Donate
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/marcinkopa)
-```
-[**Buy me a ☕️**](https://ko-fi.com/marcinkopa)
 
 ## Download
 
