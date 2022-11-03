@@ -6,7 +6,7 @@
 	</p>
 </div>
 
-## Donation
+## Donate
 
 [**Buy me a ☕️**](https://ko-fi.com/marcinkopa)
 
