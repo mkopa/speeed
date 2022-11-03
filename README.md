@@ -3,6 +3,7 @@
 	<h1>Speeed Configuration Tool</h1>
 	<p>
 		<b>Easy and clear programming tool for BAFANG BBS01 BBS02 BBSHD e-bike motors</b>
+		 <a href="https://ko-fi.com/marcinkopa"><h2>Buy me a ☕️</h2></a>
 	</p>
 </div>
 
