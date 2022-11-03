@@ -6,6 +6,8 @@
 	</p>
 </div>
 
+## Donation
+
 [**Buy me a ☕️**](https://ko-fi.com/marcinkopa)
 
 ## Download
