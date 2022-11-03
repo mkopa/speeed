@@ -8,6 +8,17 @@
 
 ## Donate
 
+```javascript
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('marcinkopa', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support Me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+```
 [**Buy me a ☕️**](https://ko-fi.com/marcinkopa)
 
 ## Download
